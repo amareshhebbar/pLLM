@@ -1,4 +1,4 @@
-# PocketLLM
+# PocketLLM(NovaAI)
 
 Private, offline AI chat. Runs entirely on-device — no internet required after setup.
 
