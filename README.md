@@ -12,6 +12,11 @@ Private, offline AI chat. Runs entirely on-device — no internet required after
 
 [Download APK from Git Release](https://github.com/amareshhebbar/pLLM/releases/download/1.0.0/pocketllm.apk)
 
+
+**Option 3 — Direct APK (if Nothing works then drive link)**
+
+[Download APK from Drive](https://drive.google.com/drive/folders/1qtw2AEW7b9Ut7AS-m6xTaQ_lsgjSTQdV?usp=sharing)
+
 To install from the Drive link:
 1. Download the `.apk` file to your Android device.
 2. Open it. If prompted, allow installs from this source (Settings → Security → Install unknown apps).
